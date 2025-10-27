@@ -71,8 +71,8 @@ Expanding dataset for real-world banking case studies.
 
 ## 👤 Author
 
-**Elluri Imran**  
-📌 [GitHub Profile](https://github.com/Elluriimran)
+**Vishrut Gupta**  
+📌 [GitHub Profile]((https://github.com/VishrutGupta))
 
 ---
 
