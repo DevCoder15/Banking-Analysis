@@ -72,7 +72,7 @@ Expanding dataset for real-world banking case studies.
 ## 👤 Author
 
 **Vishrut Gupta**  
-📌 [GitHub Profile]([(https://github.com/VishrutGupta)])
+📌 [GitHub Profile](https://github.com/VishrutGupta)
 
 ---
 
